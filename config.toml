@@ -1,0 +1,24 @@
+BaseUrl= "https://indragunawan.id"
+LanguageCode= "id-ID"
+Title= "My blog is awesome"
+Paginate = 10
+DisqusShortname = "YOUR_SHORT_NAME_HERE"
+Copyright = "All rights reserved - 2017"
+Canonifyurls = true
+theme = "casper"
+
+[params]
+    description = "Welcome to my website"
+    metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+    cover = "images/cover_polenord.jpg"
+    logo = "images/logo.png"
+    googleAnalyticsUserID = "UA-79101-12"
+    githubName = "IndraGunawan"
+    twitterName = "rengatkids"
+    # facebookName = ""
+    linkedinName = "indragun"
+
+    hjsStyle = "github-gist"
+
+    [params.social]
+        twitter = "your_twitter"
